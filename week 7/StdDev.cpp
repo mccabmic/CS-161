@@ -1,7 +1,9 @@
 /*************************
 Author:Michael McCabe
 Date: November 7, 2017
-Description: This function 
+Description: This function takes two paramaters, an array of People objects,
+and the size of this array and returns the standard deviation of the ages
+of the people objects in the array.
 IDE: Notepad++
 **************************/
 
