@@ -22,7 +22,7 @@ double stdDev(Person testSubject[], int SubjectPop){
 	// Calculate the variance and sum it
 	double variance = 0.0;
 	for (int tagNumber = 0; tagNumber < SubjectPop; tagNumber++){
-		variance += pow(testSubject[tagNumber].getAge() - mean), 2);		
+		variance += pow((testSubject[tagNumber].getAge() - mean), 2);		
 	}
 
 	// Take the square root of the variance

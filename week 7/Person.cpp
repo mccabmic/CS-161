@@ -12,7 +12,7 @@ Person::Person(std::string subjectName, double subjectAge){
 	age = subjectAge;	
 	}
 	
-std:string Person::getName(void) const{
+std::string Person::getName(void) const{
 	return(name);
 	}
 
