@@ -9,14 +9,14 @@ IDE: Notepad++
 
 Person::Person(std::string subjectName, double subjectAge){
 	name = subjectName;
-	age = subjectAge;	
+	age = subjectAge;
 	}
 	
 std::string Person::getName(void) const{
 	return(name);
 	}
 
-double  Person::getAge(void) const{
+double Person::getAge(void) const{
 	return(age);
 	}
 
