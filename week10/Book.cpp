@@ -2,7 +2,7 @@
 Author:Michael McCabe
 Date: November 28, 2017
 Description: This is the class IMPLEMENTATION file for the Book object
-IDE: Notepad++
+Text Editor: Notepad++
 **************************/
 
 #include "Book.hpp"
